@@ -1,3 +1,7 @@
+# ides
+.vscode
+.idea
+
 # Compiled class file
 *.class
 
